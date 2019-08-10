@@ -720,6 +720,7 @@
 64.203.96.0,64.203.111.255,Airnet Group,http://smartechcorp.net/
 64.207.128.0,64.207.191.255,Media Temple,http://www.mediatemple.net/
 64.210.128.0,64.210.159.255,Reflected Networks,http://reflected.net/
+64.233.172.0,64.233.173.255,Google Proxy,https://google.com
 64.224.0.0,64.227.255.255,PEER 1,http://www.peer1.com/
 64.235.32.0,64.235.63.255,Premia Networks Corporation,http://www.premianet.com/
 64.239.0.0,64.239.127.255,PEER 1,http://www.peer1.com/
@@ -799,6 +800,7 @@
 66.96.128.0,66.96.191.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 66.96.192.0,66.96.255.255,hostnoc,http://www.hostnoc.net/
 66.98.128.0,66.98.255.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
+66.102.6.0,66.102.8.255,Google Proxy,https://google.com
 66.111.64.0,66.111.95.255,PEER 1,http://www.peer1.com/
 66.111.96.0,66.111.111.255,Neospire,http://www.neospire.net/
 66.113.128.0,66.113.255.255,Hostway,http://www.hostway.com/
@@ -847,6 +849,7 @@
 66.241.192.0,66.241.255.255,HostMySite.com,http://www.webmysite.com/
 66.242.128.0,66.242.159.255,Host Depot,http://www.hostdepot.com/
 66.249.0.0,66.249.31.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
+66.249.80.0,66.249.93.255,Google Proxy,https://google.com
 66.252.0.0,66.252.31.255,gigeNET,http://www.gigenet.com/
 66.252.192.0,66.252.207.255,Host Depot,http://www.hostdepot.com/
 66.254.96.0,66.254.127.255,Reflected Networks,http://reflected.net/
@@ -1102,6 +1105,7 @@
 74.122.128.0,74.122.135.255,datacenterscanada.com,http://www.datacenterscanada.com/
 74.122.192.0,74.122.199.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 74.123.8.0,74.123.11.255,SevenL Networks Inc,https://www.sevenl.net/
+74.125.208.0,74.125.208.255,Google Proxy,https://google.com
 74.126.80.0,74.126.95.255,Peak10,http://www.peak10.com/
 74.200.64.0,74.200.95.255,Virtacore Systems,http://www.virtacore.com/
 74.200.192.0,74.200.255.255,Layered Technologies Inc,http://www.layeredtech.com/
