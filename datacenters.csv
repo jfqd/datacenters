@@ -1105,7 +1105,7 @@
 74.122.128.0,74.122.135.255,datacenterscanada.com,http://www.datacenterscanada.com/
 74.122.192.0,74.122.199.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 74.123.8.0,74.123.11.255,SevenL Networks Inc,https://www.sevenl.net/
-74.125.208.0,74.125.208.255,Google Proxy,https://google.com
+74.125.208.0,74.125.215.255,Google Proxy,https://google.com
 74.126.80.0,74.126.95.255,Peak10,http://www.peak10.com/
 74.200.64.0,74.200.95.255,Virtacore Systems,http://www.virtacore.com/
 74.200.192.0,74.200.255.255,Layered Technologies Inc,http://www.layeredtech.com/
